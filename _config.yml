@@ -3,7 +3,7 @@ title:       Mednopers
 email:       info@mednopers.ru
 author:      Nikolay Gordeev
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
+baseurl:     "/"
 url:         "http://mednopers.ru"
 date_format: "%b %-d, %Y"
 header_pages:
